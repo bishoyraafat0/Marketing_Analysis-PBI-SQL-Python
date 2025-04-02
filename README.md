@@ -19,8 +19,11 @@ This project is focused on analyzing customer reviews and marketing performance 
 
 ## Key Performance Indicators (KPIs)
 - **Conversion Rate**: Percentage of visitors who make a purchase.
+- ![image](https://github.com/user-attachments/assets/dcb158ec-f2a7-4500-8dc4-ff43e48eccfc)
 - **Customer Engagement Rate**: Interaction levels with marketing content (clicks, likes, comments).
+- ![image](https://github.com/user-attachments/assets/51919ee5-ff33-4e45-8629-97a82f6036d6)
 - **Customer Feedback Score**: Ratings and reviews from customers.
+- ![image](https://github.com/user-attachments/assets/eef81027-4893-472f-810a-5d86fed2ad6b)
 
 ## Process Workflow
 1. **Data Extraction & Cleaning**:

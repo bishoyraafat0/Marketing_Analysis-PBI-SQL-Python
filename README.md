@@ -34,7 +34,8 @@ This project is focused on analyzing customer reviews and marketing performance 
      - Negative
      - Mixed Positive
      - Mixed Negative
-   
+   ![image](https://github.com/user-attachments/assets/15b22045-75fd-4889-9932-6beabd6f3c26)
+
 3. **Data Visualization (Power BI Dashboard)**:
 ![image](https://github.com/user-attachments/assets/39c0fefc-7990-4f7f-aa36-7dc31dbb92de)
     - Created a dashboard with **4 pages**:

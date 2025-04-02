@@ -36,7 +36,8 @@ This project is focused on analyzing customer reviews and marketing performance 
      - Mixed Negative
    
 3. **Data Visualization (Power BI Dashboard)**:
-   - Created a dashboard with **4 pages**:
+![image](https://github.com/user-attachments/assets/39c0fefc-7990-4f7f-aa36-7dc31dbb92de)
+    - Created a dashboard with **4 pages**:
      1. **Overview**: General insights and key metrics.
      2. **Conversion Details**: Analyzing customer conversions.
      3. **Social Media Details**: Understanding sentiment trends on social platforms.
